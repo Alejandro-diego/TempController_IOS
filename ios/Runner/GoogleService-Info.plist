@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>991158318970-rc461m7ifvu4f4c0ddfk44k373hr7s96.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.991158318970-rc461m7ifvu4f4c0ddfk44k373hr7s96</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>991158318970-fgo0f7lhalr44d8u8i19f8v95eo8lu0e.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWdQ6sxe_vGLBMgL0ME9m2TkjlUaEdr6M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>991158318970</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>iotech.dev.br.tempcontroller</string>
+	<key>PROJECT_ID</key>
+	<string>fmaxtempcontroller</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fmaxtempcontroller.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:991158318970:ios:afdaf6e23ee183e2f048c3</string>
+	<key>DATABASE_URL</key>
+	<string>https://fmaxtempcontroller-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
