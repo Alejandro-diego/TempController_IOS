@@ -60,11 +60,11 @@ class _LoginPageState extends State<LoginPage> {
               ),
             ),
             Positioned(
-              left: size.width * 0.22,
-              top: size.height * 0.6,
+              left: size.width * 0.2,
+              top: size.height * 0.67,
               child: SizedBox(
                 height: 60,
-                width: 200,
+                width: size.width * 0.60,
                 child: ElevatedButton(
                   onPressed: () {
                     if (_formKey.currentState!.validate()) {
@@ -96,8 +96,8 @@ class _LoginPageState extends State<LoginPage> {
               ),
             ),
             Positioned(
-              right: size.width * 0.01,
-              top: size.height * 0.92,
+              right: size.width * 0.02,
+              top: size.height * 0.90,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.end,
                 children: [
